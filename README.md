@@ -47,5 +47,5 @@ public void guardarHistorial(String monedaOrigen, String monedaDestino, double m
 }
 ```
 ## Ejemplo de Uso
-![Interfaz del Conversor de Monedas](screenshots/captura.png)
+![Interfaz del Conversor de Monedas](screenshots/Captura.png)
 
