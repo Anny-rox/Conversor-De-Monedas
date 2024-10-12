@@ -7,6 +7,7 @@
 - **Conversión de Monedas**: Convierte entre varias monedas, incluyendo Dólar (USD), Peso Argentino (ARS), Real Brasileño (BRL) y Peso Colombiano (COP).
 - **Historial de Conversiones**: Mantiene un registro de todas las conversiones realizadas, almacenadas en un archivo JSON (`historial.json`).
 - **Interfaz de Usuario Interactiva**: Interactúa fácilmente con el programa a través de un menú de opciones.
+- **Soporte extendido para monedas**: Capacidad para aumentar la cantidad de monedas disponibles para elegir.
 
 ## Tecnologías Utilizadas
 
